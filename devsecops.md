@@ -2,7 +2,7 @@
 
 ## Background
 
-Awesome! Thank you for your interest in [GigaTECH](https://gigatech.net/). As part of our evaluation process, we employ an open-ended coding challenge that we will discuss during your interview. We use these challenges as a way to gauge skill sets and your approach to problem solving. There is no one correct solution, nor a single programming language that should be used to solve the problem. Rather we want you to be creative! We will discuss your solution as part of our technical interview process.
+Awesome! Thank you for your interest in [GigaTECH](gtweb). As part of our evaluation process, we employ an open-ended coding challenge that we will discuss during your interview. We use these challenges as a way to gauge skill sets and your approach to problem solving. There is no one correct solution, nor a single programming language that should be used to solve the problem. Rather we want you to be creative! We will discuss your solution as part of our technical interview process.
 
 We appreciate that any coding challenge represents an investment of your time. We hope you see the value in having a code sample that is relatable to both of us for the interview. Should you be unsuccessful, you should feel free to use the code you developed for this challenge in any way that you would like.
 
@@ -53,7 +53,7 @@ As you develop your solution, you may have ideas on other avenues to pursue. Ple
 
 We look for readability, good architectural decisions, modularity, and a solid approach to testing in your code.
 
-[gtweb]: https://estatespace.com/
+[gtweb]: https://gigatech.net
 [openapi]: https://swagger.io/specification/
 [github]:https://github.com/
 [gfm]: https://github.github.com/gfm/
