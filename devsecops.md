@@ -54,7 +54,7 @@ As you develop your solution, you may have ideas on other avenues to pursue. Ple
 We look for readability, good architectural decisions, modularity, and a solid approach to testing in your code.
 
 [gtweb]: https://estatespace.com/
-[eopnapi]: https://swagger.io/specification/
+[openapi]: https://swagger.io/specification/
 [github]:https://github.com/
 [gfm]: https://github.github.com/gfm/
 [swapi]: https://swapi.dev/
