@@ -53,14 +53,14 @@ As you develop your solution, you may have ideas on other avenues to pursue. Ple
 
 We look for readability, good architectural decisions, modularity, and a solid approach to testing in your code.
 
-[gtweb]: https://gigatech.net
-[openapi]: https://swagger.io/specification/
+[gtweb]:https://gigatech.net
+[openapi]:https://swagger.io/specification/
 [github]:https://github.com/
-[gfm]: https://github.github.com/gfm/
-[swapi]: https://swapi.dev/
-[fhir]: http://hl7.org/fhir/
-[fhirservers]: http://hl7.org/fhir/implsupport-module.html#7.0.4.1
-[gtdevutils]: https://github.com/GigaTech-net/dev#this-environment-includes-the-following-utilities
-[gtdevcomps]: https://github.com/GigaTech-net/dev#base-development-environment
-[gtcareersemail]: mailto:careers@gigatech.net?subject=DevSecOps%20Challenge
-[gtslack]: https://gigatech-net.slack.com/app_redirect?channel=general
+[gfm]:https://github.github.com/gfm/
+[swapi]:https://swapi.dev/
+[fhir]:http://hl7.org/fhir/
+[fhirservers]:http://hl7.org/fhir/implsupport-module.html#7.0.4.1
+[gtdevutils]:https://github.com/GigaTech-net/dev#this-environment-includes-the-following-utilities
+[gtdevcomps]:https://github.com/GigaTech-net/dev#base-development-environment
+[gtcareersemail]:mailto:careers@gigatech.net?subject=DevSecOps%20Challenge
+[gtslack]:https://gigatech-net.slack.com/app_redirect?channel=general
