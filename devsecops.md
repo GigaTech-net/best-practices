@@ -8,7 +8,7 @@ We appreciate that any coding challenge represents an investment of your time. W
 
 ## The Challenge
 
-The heart of every devsecops capability is the pipeline. We'd like for you to create a delivery pipeline. This delivery pipeline shall build a proxy to a RESTful api and expose the api specification using the [open api](openapi) documentation standard. Your source code and delivery pipeline code shall be stored in a [GitHub](github) repository. It is entirely likely that the api you chose won't be documented. IN that case, please document the subset you are exposing using the OpenAPI standard.
+The heart of every devsecops capability is the pipeline. We'd like for you to create a delivery pipeline. This delivery pipeline shall build a proxy to a RESTful api and expose the api specification using the [open api][openapi] documentation standard. Your source code and delivery pipeline code shall be stored in a [GitHub][github] repository. It is entirely likely that the api you chose won't be documented. In that case, please document the subset you are exposing using the OpenAPI standard.
 
 Ideally, this would take a mid-level DevSecOps engineer, with experience with these technologies, two to four hours to complete the minimum requirements.
 
@@ -17,12 +17,12 @@ Ideally, this would take a mid-level DevSecOps engineer, with experience with th
 We would like your submission to offer a minimum capability. The criteria are:
 
 - A GitHub repository containing all your code
-- A README.md [markdown file](gfm) within the GitHub repository that documents
+- A README.md [markdown file][gfm] within the GitHub repository that documents
   - The URL to call to get to the RESTful service(s)
   - An example of using your RESTful proxy
   - The URL to call to get to the OpenAPI documentation
 - A pipeline configuration file for your CI/CD tool of choice used to build the artifacts needed to satisfy the requirements.
-- You may assume the local machine has these [base components](gtdevcomps) & these [utilities](gtdevutils).
+- You may assume the local machine has these [base components][gtdevcomps] & these [utilities][gtdevutils].
 
 ## Where to begin
 
@@ -31,15 +31,15 @@ We have some suggestions to get you started, but these are by no means requireme
 - API to proxy
   - You may create your own RESTful service to proxy -or-
   - You may use an existing RESTful api, such as,
-    - The [star wars api](swapi) -or-
-    - The latest healthcare interoperability API, explained here: [FHIR](fhir) and available as a public server [here](fhirservers).
+    - The [star wars api][swapi] -or-
+    - The latest healthcare interoperability API, explained here: [FHIR][fhir] and available as a public server [here][fhirservers].
 - Questions
-  - Ask questions on [slack](gtslack)
-  - Questions may be emailed to [GigaTECH careers](gtcareersemail).
+  - Ask questions on [slack][gtslack]
+  - Questions may be emailed to [GigaTECH careers][gtcareersemail].
 
 ## Submission
 
-When you are comfortable with your results, please email your GitHub repository link to [GigaTECH careers](gtcareersemail). Please keep your emails short and to the point.
+When you are comfortable with your results, please email your GitHub repository link to [GigaTECH careers][gtcareersemail]. Please keep your emails short and to the point.
 
 Any specific notes or further information you would like to add about your submittal, should be included in the GitHub project as additional [markdown][gfm] notes.
 
