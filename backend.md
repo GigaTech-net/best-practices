@@ -39,6 +39,7 @@ We have some suggestions to get you started, but these are by no means requireme
       - In this case, use the [films](https://swapi.dev/api/films/1/) as the resource.
     - The latest healthcare interoperability API, explained here: [FHIR][fhir] and available as a public server [here][fhirservers].
       - In this case, use the [patient](https://www.hl7.org/fhir/patient.html) as the resource.
+      - The patient specification is broad. Feel free to pick and choose portions to implement that meet the minimum requirements.
   - You may also generate documentation for your API using the [OpenAPI][openapi] specification.
 - Questions
   - Ask questions on [slack][gtslack]
