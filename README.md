@@ -10,7 +10,6 @@ We are always looking for great team members. Come and see if we are a fit for y
   - [DevSecOps](devsecops.md)
   - [front end](frontend.md)
   - [back end](backend.md)
-  - test
 - [GigaTECH Careers](https://gigatech.net/job-openings/)
 - [Inquiries](https://gigatech.net/about/join-us/)
 - [Slack](https://gigatech-net.slack.com/app_redirect?channel=general)
