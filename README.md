@@ -13,3 +13,28 @@ We are always looking for great team members. Come and see if we are a fit for y
 - [GigaTECH Careers](https://gigatech.net/job-openings/)
 - [Inquiries](https://gigatech.net/about/join-us/)
 - [Slack](https://gigatech-net.slack.com/app_redirect?channel=general)
+
+## Best Practices
+
+We employ best practices across our projects and repositories. Individual projects may have their own best practices that supercede these.
+
+### GitHub
+
+While there isn't one true answer for github practices, at GigaTECH, we start with these practices and tailor as needed.
+
+- Don't push straight to master (use protected branches)
+- Do use branch naming conventions
+- Don't commit secrets to source
+- Do commit related changes
+- Don't commit dependencies
+- Do commit often
+- Don't commit local/individual configuration
+- Do create a good gitignore file
+- Don't commit half done work
+- Do stay up to date
+- Don't change published history
+- Do you a workflow that your team agrees to
+- Do perform peer reviews on PRs
+- Do test before you commit
+- Do write good commit messages
+- see [GitHub Best Practices](https://resources.github.com/videos/github-best-practices/) for general information.
