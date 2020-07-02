@@ -8,8 +8,8 @@ We are always looking for great team members. Come and see if we are a fit for y
 
 - Development Challenges
   - [DevSecOps](devsecops.md)
-  - [front end](frontend.md)
-  - [back end](backend.md)
+  - [Front End](frontend.md)
+  - [Back End](backend.md)
 - [GigaTECH Careers](https://gigatech.net/job-openings/)
 - [Inquiries](https://gigatech.net/about/join-us/)
 - [Slack](https://gigatech-net.slack.com/app_redirect?channel=general)
